@@ -3,12 +3,12 @@
   "name": "Paper.io 2",
   "icons": [
     {
-      "src": "images/icon192.png",
+      "src": "paperio2/images/icon192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/icon512.png",
+      "src": "paperio2/images/icon512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
